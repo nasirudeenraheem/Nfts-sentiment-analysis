@@ -3,6 +3,8 @@ We are currently living in a world, where there is a massive explosion of digita
 
 Dataset
 
+The data is scrape using https://pypi.org/project/twint/
+
 Get the tweets from Twitter using the hashtags given below for the last 7 to 14 days (or more if possible) and identify the trending NFT collections on a daily basis and analyze the sentiments of these tweets.
 
 Hashtags: #nfts #nft #nftart #nftcommunity #nftcollector #NFTs #NFT #NFTCommunity #NFTcommunity #nftgiveaway #NFTGiveaway #metaverse #web3 #NFTCollection #NFTGame #NFTdrop #NFTartists #NFTProject #NFTMarketplace #NFTdrops (add more as applicable).
